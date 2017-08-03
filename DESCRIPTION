@@ -1,0 +1,11 @@
+Package: multicoldiv
+Title: Divide pairs of variables quickly
+Version: 0.0.1
+Authors@R: person("Ross", "Ireland", email = "rosseireland@gmail.com", role = c("aut", "cre"))
+Description: Divide pairs of variables quickly
+Depends: tidyverse, dplyr (>= 0.7.0)
+Imports: tidyverse, glue, stringr
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
